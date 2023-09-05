@@ -1,0 +1,47 @@
+.p1{
+    background-color:#FFCD9E ;
+    position: absolute;
+    top: 30px;
+    left:50px;
+    border: 2px solid none;
+    height:550px;
+    width: 750px;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.p2{
+    height: 350px;
+    width: 400px;
+    border: 2px solid #FFCD9E;
+}
+button{
+    background-color: black;
+    color: white;
+}
+h5{
+    color: white;
+}
+.p3{
+    background-image: url("dweep\ io\ 1.png");
+    background-size: cover;
+    height: 350px;
+    width: 344px;
+    border: 2px solid #FFCD9E;
+}
+.p4{
+    background-color: black;
+    color:white;
+    height: 194px;
+    width: 400px;
+    border: 2px solid black;
+}
+.p5{
+    background-color: black;
+    color:white;
+    height: 194px;
+    width: 344px;
+    border: 2px solid black;
+}
